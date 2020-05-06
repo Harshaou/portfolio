@@ -272,7 +272,7 @@
       display: grid;
       max-width: 300px;
       margin-bottom: 0px;
-      margin-left: 23%;
+      margin-left: 21.5%;
       grid-template-columns: 100%;
     }
   
@@ -292,7 +292,7 @@
 
     .logo{
     max-width: 310px;
-    margin-left: 18%;
+    margin-left: 16%;
     margin-bottom: 1px;
     margin-top: 1px;
     border-radius: 15px;
